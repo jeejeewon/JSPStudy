@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>test</h2>
+<h2>jsp test</h2>
 <% 
 	int a = 10, b = 20;
 	out.print(a+b);
